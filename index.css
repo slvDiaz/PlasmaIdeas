@@ -28,7 +28,7 @@ html{
 	color: #000;
 }
 #bgDiv{
-	background-image: url("img/bg.jpeg");
+	background-image: url("bg.jpeg");
 	background-size: cover;
 	background-position: center center;
 }
